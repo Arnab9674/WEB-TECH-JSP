@@ -1,0 +1,35 @@
+a:link{
+    color: brown;
+}
+
+a:visited{
+    color:rgb(0, 255, 21)
+}
+
+a:active{
+    color:rgb(246, 255, 0)
+}
+body{
+    background-color: cadetblue;
+}
+div{
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    border:2px solid blue;
+}
+
+div:hover{
+    background-image: url('shoe.jpeg');
+    height: 1280px;
+    width: 961px;
+}
+
+h4::first-letter{
+    color: blue;
+    font-size: 60px;
+}
+
+h4::first-line{
+    color: blueviolet;
+}

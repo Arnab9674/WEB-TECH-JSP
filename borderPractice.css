@@ -1,0 +1,19 @@
+.upper-div{
+    height: 200px;
+    width: 480px;
+    border-top: 2px dashed black;
+    border-left: 2px dotted red;
+    border-bottom: 2px solid red;
+}
+.lower-div{
+    height: 200px;
+    width: 500px;
+    border-right: 2px solid red;
+    border-top-right-radius: 20px;
+}
+.inner-div{
+    height: 150px;
+    width: 500px;
+    border: 2px solid red;
+    border-radius: 50%;
+}
