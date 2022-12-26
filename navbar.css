@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    width: 0%;
+}
+.parent{
+    height: 60px;
+    width: 1535px;
+    background-color: black;
+    display: flex;
+
+}
+div>div{
+    color: aliceblue;
+    height: 50px;
+    width: 100px;
+    margin-left: 150px;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-top: 12px;
+}
+
+.logo{
+    
+}
+
+.Contact{
+    background-color: aqua;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    height: 40px;
+    width: 100px;
+}
+
+
+div>div:hover{
+    color: greenyellow
+}

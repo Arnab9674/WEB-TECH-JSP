@@ -1,0 +1,57 @@
+.main{
+    height: 500px;
+    width: 650px;
+    border-radius: 100%;
+    border: 3px solid brown;
+    margin-top: 100px;
+    margin-left: 450px;
+    box-shadow: 10px 10px 50px brown;
+    background-color: yellow;
+}
+.space{
+    height: 50px;
+    width: 650px;
+    display: flex;
+    margin-top: 200px;
+    
+}
+.child1{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    border: 3px solid black;
+    margin-left: 100px;
+    box-shadow: 10px 10px 100px brown;
+    background-color: aliceblue;
+}
+.child2{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    border: 3px solid black;
+    margin-left: 270px;
+    box-shadow: 10px 10px 100px brown;
+    background-color: aliceblue;
+}
+
+.pupil{
+    height: 10px;
+    width: 10px;
+    border-radius: 100%;
+    border: 3px solid black;
+    margin: 18px auto ;
+    background-color: black;
+}
+
+.face{
+    height: 50px;
+    width: 100px;
+    border: 3px solid black;
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    border-radius: 50%;
+    margin-top: 80px;
+    margin-left: 270px;
+}
+
